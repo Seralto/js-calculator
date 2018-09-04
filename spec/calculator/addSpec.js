@@ -1,4 +1,4 @@
-describe("Add suite", function() {
+describe("Add", function() {
   var Calculator = require('../../src/js/calculator');
 
   it("should return 5 to 2 + 3", function() {
